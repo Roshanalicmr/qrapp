@@ -1,4 +1,4 @@
-package com.example.qrcode;
+package com.example.qrapplication;
 
 import io.flutter.embedding.android.FlutterActivity;
 
