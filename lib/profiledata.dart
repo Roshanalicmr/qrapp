@@ -13,7 +13,7 @@ class _PrflViewState extends State<PrflView> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(),
-      backgroundColor: Colors.blue,
+      backgroundColor: Colors.teal,
       body: Center(
         child: Column(
           children: [
@@ -33,7 +33,7 @@ class _PrflViewState extends State<PrflView> {
             ),
             Text(
               'rooshan',
-              style: TextStyle(fontSize: 24, color: Colors.red),
+              style: TextStyle(fontSize: 24, color: Colors.white),
             ),
             SizedBox(
               height: 50,
