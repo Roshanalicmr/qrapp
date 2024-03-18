@@ -1,6 +1,6 @@
 {
-    "name": "qrapplication",
-    "short_name": "qrapplication",
+    "name": "qrapp",
+    "short_name": "qrapp",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
